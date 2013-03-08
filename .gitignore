@@ -1,0 +1,11 @@
+bling-imgs
+imgs
+imgs-resized
+opencv_install
+RTR
+*.jpg
+*.png
+*.jpeg
+*.txt
+.DS_Store
+
